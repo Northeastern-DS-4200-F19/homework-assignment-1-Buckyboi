@@ -1,0 +1,32 @@
+html {
+	font-size: 12px;
+	background-color: #10A1B1;
+	font-family: 'Merriweather', serif;
+}
+
+#ti {
+	font-size: 70px;
+	font-family: 'Modak', cursive;
+}
+#info {
+	width: 900px;
+}
+
+#apple {
+	font-size: 40px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#info {
+		border: 5px solid black;
+}
+
+
+body {
+	width: 1100px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
